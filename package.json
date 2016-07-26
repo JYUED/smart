@@ -1,6 +1,7 @@
 {
   "devDependencies": {
     "gulp": "^3.9.1",
-    "webpack": "^1.13.1"
+    "webpack": "^1.13.1",
+    "webpack-merge": "^0.14.1"
   }
 }
